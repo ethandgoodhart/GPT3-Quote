@@ -2,7 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 import sys
 
-class quote:
+class Quote(object):
+    def __init__():
+        continue
+
     def get(q):
         url = 'https://thoughts.sushant-kumar.com/' + q
         r = requests.get(url)
