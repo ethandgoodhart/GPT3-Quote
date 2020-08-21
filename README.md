@@ -5,4 +5,4 @@ To generate quote:
 
 
 from gpt3quote import Quote
-quote.get("quote topic here")
+Quote.get("quote topic here")
