@@ -1,1 +1,1 @@
-from gpt3_quote.generate import quote
+from gpt3quote.Quote import Quote

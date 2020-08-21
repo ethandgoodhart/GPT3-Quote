@@ -4,6 +4,5 @@ GPT-3 generated quote library for python
 To generate quote:
 
 
-import gpt3_quote
-
+from gpt3quote import Quote
 quote.get("quote topic here")

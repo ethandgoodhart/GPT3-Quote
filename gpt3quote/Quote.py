@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import sys
 
 class Quote(object):
     def __init__():
