@@ -8,3 +8,5 @@ from gpt3quote import Quote
 random_quote = Quote.get("quote topic here")
 print(random_quote)
 ```
+
+Based off of https://thoughts.sushant-kumar.com/
