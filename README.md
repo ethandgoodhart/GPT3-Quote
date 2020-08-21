@@ -3,6 +3,8 @@ GPT-3 generated quote library for python
 
 To generate quote:
 
-
+```
 from gpt3quote import Quote
-quote.get("quote topic here")
+random_quote = Quote.get("quote topic here")
+print(random_quote)
+```
