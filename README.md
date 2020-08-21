@@ -5,5 +5,6 @@ To generate quote:
 
 ```
 from gpt3quote import Quote
-Quote.get("quote topic here")
+random_quote = Quote.get("quote topic here")
+print(random_quote)
 ```
